@@ -17,7 +17,7 @@ requires(
     'POE'                        => '1.280',
     'Term::ReadKey'              => '2.30',
     'Time::HiRes'                => '1.9715',
-    'Try::Tiny'                  => '0.02',
+    'Try::Tiny'                  => '0.03',
 );
 
 test_requires(
